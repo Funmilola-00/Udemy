@@ -3,6 +3,7 @@ header {
   display: flex;
   align-items: center;
   margin: 7 0 7 0;
+  padding: 0 20;
   justify-content: space-around;
   list-style-type: none;
   width: 100%;
